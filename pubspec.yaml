@@ -1,0 +1,23 @@
+name: movie_db_bloc
+description: A new Flutter application
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+1
+  flutter_bloc: ^0.9.0
+  shimmer: ^1.0.0
+  shared_preferences: ^0.5.1+2
+  scoped_model: ^1.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
